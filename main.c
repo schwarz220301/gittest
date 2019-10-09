@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Hello world!\n");
+
+    printf("reverse successful!\n");
     return 0;
 }
